@@ -67,7 +67,7 @@ Esta gráfica muestra los valores de fitness promedio en cada iteración del alg
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/parall_BFOA.git
+git clone https://github.com/macncheese-ds/bfoa-alineamiento-mejorado
 cd parall_BFOA
 ```
 
@@ -105,6 +105,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Enlace al Repositorio
 
-[https://github.com/tu-usuario/parall\_BFOA](https://github.com/tu-usuario/parall_BFOA)
+[https://github.com/macncheese-ds/bfoa-alineamiento-mejorado](https://github.com/macncheese-ds/bfoa-alineamiento-mejorado)
 
 ```
